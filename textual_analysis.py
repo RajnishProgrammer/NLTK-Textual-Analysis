@@ -50,7 +50,7 @@ def analyze_sentiment(text,url_id):
         if word in stop_words or word in ['?', '!', ',', '.']:
             continue
         
-        # Count the number of syllables in the wor
+        # Count the number of syllables in the word
         vowels = 'aeiou'
         num_syllables = 0
         for i in range(len(word)):

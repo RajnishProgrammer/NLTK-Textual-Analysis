@@ -9,4 +9,4 @@
 - Saving the file.
 
 ### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=python,anaconda,nltk,requests)](https://skillicons.dev)
+![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)

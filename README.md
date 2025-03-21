@@ -10,3 +10,4 @@
 
 ### Tools & Technologies
 ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/NLTK-black?style=for-the-badge&logo=python&logoColor=grey)

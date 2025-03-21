@@ -9,3 +9,4 @@
 - Saving the file.
 
 ### Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)

@@ -9,4 +9,4 @@
 - Saving the file.
 
 ### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=python,jupyter-notebook,nltk,requests)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,anaconda,nltk,requests)](https://skillicons.dev)

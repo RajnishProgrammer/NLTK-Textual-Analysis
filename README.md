@@ -10,4 +10,5 @@
 
 ### Tools & Technologies
 ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-black?style=for-the-badge&logo=jupyter&logoColor=%23F37626)
 ![Static Badge](https://img.shields.io/badge/NLTK-black?style=for-the-badge&logo=python&logoColor=grey)
